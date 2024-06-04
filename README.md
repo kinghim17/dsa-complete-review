@@ -1,2 +1,2 @@
 # dsa-important-ques
-contains all important and tough interview questions from the gfg self paced course structred by me
+contains all important and tough interview questions from the gfg self paced course strutured by me
