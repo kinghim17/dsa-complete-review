@@ -1,0 +1,1 @@
+Create function:first occurrence and last occurrence then substract add +1 to it we can count occurrence.
